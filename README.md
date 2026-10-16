@@ -289,10 +289,10 @@ Durante o curso, serão utilizadas as seguintes tecnologias e plataformas:
 <details>
   <summary><em>Referências</em></summary>
 
-- **Kurose e Ross, Cap. 1 — Computer Networks and the Internet**
-- **Kurose e Ross, Cap. 2, Seção 2.1 — Principles of Network Applications**
-- **Kurose e Ross, Cap. 3 — Transport Layer**
-- **Kurose e Ross, Cap. 4, Seção 4.3 — The Internet Protocol (IP): IPv4, Addressing, IPv6, and More**
+- *Kurose e Ross, Cap. 1 — Computer Networks and the Internet*
+- *Kurose e Ross, Cap. 2, Seção 2.1 — Principles of Network Applications*
+- *Kurose e Ross, Cap. 3 — Transport Layer*
+- *Kurose e Ross, Cap. 4, Seção 4.3 — The Internet Protocol (IP): IPv4, Addressing, IPv6, and More*
 
 </details>
 
