@@ -273,20 +273,28 @@ Durante o curso, serão utilizadas as seguintes tecnologias e plataformas:
 ---
 
 #### 1.3 Fundamentos de Redes
-- Modelo TCP/IP
-- HTTP
-- DNS
-- TLS
-- SSH
-- Balanceamento
-- Reverse Proxy
-- Nginx
+- Modelo TCP/IP, endereçamento IP, sub-redes e CIDR.
+- Protocolos TCP e UDP, portas e comunicação cliente-servidor.
+- Roteamento, NAT, firewalls e diagnóstico de conectividade.
+- DNS, HTTP, HTTPS, TLS e certificados digitais.
+- SSH e diagnóstico de comunicação entre aplicações.
+- Reverse Proxy, balanceamento de carga e NGINX.
+- Publicação de aplicações e laboratório prático de redes.
+- **Bônus: Arquitetura e segmentação de redes corporativas; equipamentos e conectividade; segurança e controle de acesso; redundância, monitoramento e troubleshooting de infraestrutura.**
 
 *Material de apoio*
-- ...
+- 🖼️ [Slide (parte 1)](https://canva.link/2ou1nell8b66v6j)
+- 📄 [Laboratórios](/modulo-1/1.3-redes-para-engenharia-devops/sumário.md)
 
-*Referências*
-- ...
+<details>
+  <summary><em>Referências</em></summary>
+
+- **Kurose e Ross, Cap. 1 — Computer Networks and the Internet**
+- **Kurose e Ross, Cap. 2, Seção 2.1 — Principles of Network Applications**
+- **Kurose e Ross, Cap. 3 — Transport Layer**
+- **Kurose e Ross, Cap. 4, Seção 4.3 — The Internet Protocol (IP): IPv4, Addressing, IPv6, and More**
+
+</details>
 
 ---
 
